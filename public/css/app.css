@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5, h6, .heading-font {
 }
 
 .moto-color_custom2 {
-  color: #ffffff;
+  color: black;
 }
 
 .moto-color_custom3 {
@@ -326,7 +326,7 @@ h1, h2, h3, h4, h5, h6, .heading-font {
 }
 
 .moto-spacing-bottom-medium {
-  padding-bottom: 35px;
+  padding-bottom: 10px;
 }
 
 .moto-spacing-bottom-large {
@@ -1347,7 +1347,6 @@ h4 {
 }
 
 .moto-container_content_567184e0 {
-  background-color: #00a0a6;
   background-image: url(../images/maxfine_feinsteinzeug_fliesen_fmg_calacatta_22.jpg);
   background-size: cover;
   background-position: top;
@@ -1389,6 +1388,7 @@ h4 {
   background-position: top;
   transition-duration: 0.4s;
   padding: 50px 10px;
+  padding-bottom: 0px;
 }
 
 .moto-container_content_56712b1f96e29 {
@@ -6820,10 +6820,12 @@ h4 {
 
 .moto-widget-contact_form.moto-preset-default .moto-widget-contact_form-form .moto-widget-contact_form-field {
   color: #6e6e6e;
-  background-color: transparent;
+  background-color: #F2F2F2;
   font-style: normal;
   font-weight: 400;
   border-color: #e3e3e3;
+  width: 50%;
+  border-radius: 24px;
 }
 
 .moto-widget-contact_form.moto-preset-default .moto-widget-contact_form-form .moto-widget-contact_form-field.ng-touched.ng-invalid {
@@ -6880,11 +6882,11 @@ h4 {
 }
 
 .moto-widget-contact_form.moto-preset-2 .moto-widget-contact_form-form .moto-widget-contact_form-field {
-  color: #ffffff;
+  color: black;
   background-color: transparent;
   font-style: normal;
   font-weight: 400;
-  border-color: #ffffff;
+  border-color: #0000006b;
 }
 
 .moto-widget-contact_form.moto-preset-2 .moto-widget-contact_form-form .moto-widget-contact_form-field.ng-touched.ng-invalid {
