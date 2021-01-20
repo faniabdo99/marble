@@ -183,10 +183,9 @@
                     </div>
                 </div>
             </div>
+        </div>  
     </div>
-    </div>
-    </div>
-
+</div>
     <div class="moto-widget moto-widget-container moto-parallax moto-container_content_567184e0">
         <div class="moto-widget moto-widget-row row-fixed">
             <div class="container-fluid">
@@ -212,7 +211,61 @@
             </div>
         </div>
     </div>
-
+    <div class="moto-widget moto-widget-row row-fixed">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="moto-cell col-sm-12 moto-widget moto-widget-row__column" id="natural-carpets-section">
+                    <div class="moto-widget moto-widget-container undefined moto-container_content_600038882">
+                        <div class="moto-widget moto-widget-text moto-preset-default wow fadeIn moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-medium moto-spacing-left-auto" data-widget="text" data-preset="default"
+                          data-animation="fadeIn">
+                            <div class="moto-widget-text-content moto-widget-text-editable">
+                                <p class="moto-text_system_5 text-center">UNIQUE COUNTER TOPS</p>
+                            </div>
+                        </div>
+                        <div class="moto-widget moto-widget-row moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-grid-type="sm">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <div class="moto-widget moto-widget-row__column moto-cell col-sm-2 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto">
+                                    </div>
+                                    <div class="moto-widget moto-widget-row__column moto-cell col-sm-8 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto">
+                                        <div class="moto-widget moto-widget-text moto-preset-default wow fadeInUp moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto">
+                                            <div class="moto-widget-text-content moto-widget-text-editable text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores.</div>
+                                        </div>
+                                    </div>
+                                    <div class="moto-widget moto-widget-row__column moto-cell col-sm-2 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-widget-id="wid_1610544282_ey31siy9b" class="moto-widget moto-widget-spacer moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-preset="default"
+                      data-visible-on="+desktop,tablet,mobile-h,mobile-v">
+                        <div class="moto-widget-spacer-block" style="height:30px"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="moto-widget moto-widget-row">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="moto-cell col-sm-12 moto-widget moto-widget-row__column">
+                    <div id="wid_1609579559_jw0vxhs6c" class="moto-widget moto-widget-tile-gallery moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto">
+                        <div class="moto-widget-tile-gallery__wrapper">
+                            <div class="moto-widget-tile-gallery__items-wrapper">
+                                @for ($i=1; $i < 8; $i++) <div class="moto-widget-tile-gallery__item-wrapper">
+                                    <div class="moto-widget-tile-gallery__item">
+                                        <a href="{{url('public')}}/images/counter-tops/{{$i}}.jpeg" data-fancybox="full-marble-carpet" class="moto-widget-tile-gallery__item-link moto-link">
+                                            <img class="moto-widget-tile-gallery__item-image" src="{{url('public/images')}}/counter-tops/{{$i}}.jpeg" alt="{{$i}}.jpeg">
+                                        </a>
+                                    </div>
+                            </div>
+                            @endfor
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="moto-widget moto-widget-container moto-container_content_56718843 p-5">
         <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto">
             <div class="moto-widget-text-content moto-widget-text-editable">
