@@ -25,7 +25,7 @@
         <!-- Navbar / Hero Section -->
         <header id="section-header" class="header moto-section">
             <div class="moto-widget moto-widget-container moto-parallax moto-container_header_56716d2f">
-                <div class="moto-widget moto-widget-row row-fixed">
+                <div class="moto-widget moto-widget-row row-fixed pb-4">
                     <div class="container-fluid">
                         <div class="row">
                             <div class="moto-cell col-sm-6 moto-widget moto-widget-row__column">
@@ -62,64 +62,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="moto-widget moto-widget-row row-fixed row-gutter-0">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="moto-cell col-sm-4 moto-widget moto-widget-row__column">
-                                <div class="moto-widget moto-widget-container moto-container_header_5671735b h-100 d-flex justify-content-center">
-                                    <div class="moto-widget moto-widget-text moto-preset-default wow fadeIn moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-medium moto-spacing-left-medium">
-                                        <div class="moto-widget-text-content moto-widget-text-editable">
-                                            <p class="moto-text_system_6 heading-font"><a href="https://demo.try-builder.com/site/03/00q/ha/0300qhaxmg9mit0v/#">OPTION 1:<br>CREATE YOUR BIG PROJECT</a></p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="moto-cell col-sm-4 moto-widget moto-widget-row__column">
-                                <div class="moto-widget moto-widget-image moto-preset-default ">
-                                    <span class="moto-widget-image-link">
-                                        <img data-src="{{url('public/images')}}/78226bf763eaa08a58709661560a7696_5ffeeef639b2f.png" height="200" class=" moto-widget-image-picture lazyloaded" title="" alt="" src="{{url('public/images')}}/78226bf763eaa08a58709661560a7696_5ffeeef639b2f.png">
-                                    </span>
-                                </div>
-                            </div>
-                            <div class="moto-cell col-sm-4 moto-widget moto-widget-row__column" >
-                                <div class="moto-widget moto-widget-container moto-container_header_56717c54 h-100">
-                                    <div class="moto-widget moto-widget-text moto-preset-default wow fadeIn moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-medium moto-spacing-left-medium">
-                                        <div class="moto-widget-text-content moto-widget-text-editable">
-                                            <p class="moto-text_system_6 heading-font"><a href="https://demo.try-builder.com/site/03/00q/ha/0300qhaxmg9mit0v/#">OPTION 2:<br>FULL MARBLE<br>CARPETS</a></p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="moto-widget moto-widget-row row-fixed row-gutter-0" >
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="moto-cell col-sm-4 moto-widget moto-widget-row__column">
-                                <div  class="moto-widget moto-widget-image moto-preset-default  moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto ">
-                                    <span class="moto-widget-image-link">
-                                        <img data-src="{{url('public/images')}}/9z8a36282.jpg" height="200" class="moto-widget-image-picture lazyloaded" data-id="307"  src="{{url('public/images')}}/9z8a36282.jpg">
-                                    </span>
-                                </div>
-                            </div>
-                            <div class="moto-cell col-sm-4 moto-widget moto-widget-row__column">
-                                <div class="moto-widget moto-widget-container moto-container_header_56717cc6 h-100">
-                                    <div class="moto-widget moto-widget-text moto-preset-default wow moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-medium moto-spacing-left-medium fadeIn">
-                                        <div class="moto-widget-text-content moto-widget-text-editable">
-                                            <p class="moto-text_system_6 heading-font"><a href="https://demo.try-builder.com/site/03/00q/ha/0300qhaxmg9mit0v/#">OPTION 3:<br>CREATE UNIQUE HALF-CARPETS</a></p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="moto-cell col-sm-4 moto-widget moto-widget-row__column">
-                                <div class="moto-widget moto-widget-image moto-preset-default h-100" >
-                                    <img data-src="{{url('public/images')}}/ezgif.com-gif-maker-2_5ffeed0a30c84.gif" height="200" class="moto-widget-image-picture lazyloaded" data-id="306" title="" alt="" src="{{url('public/images')}}/ezgif.com-gif-maker-2_5ffeed0a30c84.gif">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </header>
         <!-- End Navbar / Hero Section -->
@@ -129,28 +71,6 @@
                     <div class="container-fluid">
                         <div class="row">
                             <div class="moto-cell col-sm-12 moto-widget moto-widget-row__column">
-                                <div class="moto-widget moto-widget-text moto-preset-default wow fadeInUp moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-medium moto-spacing-left-auto">
-                                    <div class="moto-widget-text-content">
-                                        <p class="moto-text_system_4 text-center heading-font">What Are Exotic Nebu Stone Carpets?</p>
-                                        <div class="row">
-                                          <div class="moto-cell col-sm-2 moto-widget moto-widget-row__column"></div>
-                                          <div class="moto-cell col-sm-8 moto-widget moto-widget-row__column">
-                                              <div class="moto-widget moto-widget-text moto-preset-default wow fadeInUp moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto">
-                                                  <div class="moto-widget-text-content moto-widget-text-editable">
-                                                      <p class="moto-text_normal">In 2021 we are providing the last 10 Exotic Nebu Stone granite blocks ever quarried from a location in Egypt which has been closed permanently recently. These last-of-a-kind blocks will be used by talented and experienced architects, interior designers, and civil engineers to create unrepeatable designs of natural stone carpets.</p>
-                                                  </div>
-                                              </div>
-                                          </div>
-                                          <div class="moto-cell col-sm-2 moto-widget moto-widget-row__column"></div>
-                                      </div>
-                                    </div>
-                                </div>
-
-                                <div class="moto-widget moto-widget-video moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto wow lightSpeedIn">
-                                    <div class="video-container">
-                                        <iframe class="video-frame lazyloaded" src="//www.youtube.com/embed/d24-pM914aw?mute=1&amp;muted=1&amp;autoplay=1" frameborder="0" style="border: 0" allowfullscreen=""></iframe>
-                                    </div>
-                                </div>
                                 <div class="moto-widget moto-widget-row">
                                     <div class="container-fluid">
                                         <div class="row">
@@ -185,338 +105,26 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="moto-cell col-sm-12 moto-widget moto-widget-row__column">
-                            <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto">
-                                <div class="moto-widget-text-content moto-widget-text-editable">
-                                    <p class="moto-text_system_5 text-center heading-font">Bundle Benefits</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="moto-widget moto-widget-row row-fixed">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="moto-cell col-sm-4 moto-widget moto-widget-row__column">
-                            <div data-widget-id="wid__image__5ff03b4978f87" class="moto-widget moto-widget-image moto-preset-default moto-align-center moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto  wow fadeInUp" >
-                                <span class="moto-widget-image-link">
-                                    <img data-src="{{url('public/images')}}/mt-0277-home-product-locator1.png" src="{{url('public/images')}}/mt-0277-home-product-locator1.png" class="moto-widget-image-picture lazyload" data-id="164" title="" alt="">
-                                </span>
-                            </div>
-                            <div class="moto-widget moto-widget-text moto-preset-default wow fadeInUp moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto">
-                                <div class="moto-widget-text-content moto-widget-text-editable">
-                                    <p class="moto-text_system_12 text-center heading-font">Unique</p>
-                                </div>
-                            </div>
-                            <div class="moto-widget moto-widget-text moto-preset-default wow fadeInUp moto-spacing-top-auto moto-spacing-right-small moto-spacing-bottom-medium moto-spacing-left-small" data-widget="text" data-preset="default"
-                              data-spacing="asms" data-animation="fadeInUp">
-                                <div class="moto-widget-text-content moto-widget-text-editable">
-                                    <p class="moto-text_system_10 text-center">Only 100 pieces, capable of covering 2000 m<sup>2</sup>, remain of this natural granite&nbsp;stone in the whole world.&nbsp;</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="moto-cell col-sm-4 moto-widget moto-widget-row__column">
-                            <div class="moto-widget moto-widget-image moto-preset-default moto-align-center moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto wow fadeInUp" >
-                                <span class="moto-widget-image-link">
-                                    <img data-src="{{url('public/images')}}/mt-0277-home-product-locator2.png" src="{{url('public/images')}}/mt-0277-home-product-locator2.png" class="moto-widget-image-picture lazyload" title="" alt="">
-                                </span>
-                            </div>
-                            <div class="moto-widget moto-widget-text moto-preset-default wow fadeInUp moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto">
-                                <div class="moto-widget-text-content moto-widget-text-editable">
-                                    <p class="moto-text_system_12 text-center heading-font">Finished</p>
-                                </div>
-                            </div>
-                            <div class="moto-widget moto-widget-text moto-preset-default wow fadeInUp moto-spacing-top-auto moto-spacing-right-small moto-spacing-bottom-medium moto-spacing-left-small">
-                                <div class="moto-widget-text-content moto-widget-text-editable">
-                                    <p class="moto-text_system_10 text-center">You receive a polished natural stone that you can proceed to install into any space imaginable.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="moto-cell col-sm-4 moto-widget moto-widget-row__column">
-                            <div data-widget-id="wid__image__5ff03b4979277" class="moto-widget moto-widget-image moto-preset-default moto-align-center moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto  wow fadeInUp" >
-                                <span class="moto-widget-image-link">
-                                    <img data-src="{{url('public/images')}}/mt-0277-home-product-locator3.png" src="{{url('public/images')}}/mt-0277-home-product-locator3.png" class="moto-widget-image-picture lazyload" title="" alt="">
-                                </span>
-                            </div>
-                            <div class="moto-widget moto-widget-text moto-preset-default wow fadeInUp moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto">
-                                <div class="moto-widget-text-content moto-widget-text-editable">
-                                    <p class="moto-text_system_12 text-center heading-font">Customizable</p>
-                                </div>
-                            </div>
-                            <div class="moto-widget moto-widget-text moto-preset-default wow fadeInUp moto-spacing-top-auto moto-spacing-right-small moto-spacing-bottom-medium moto-spacing-left-small">
-                                <div class="moto-widget-text-content moto-widget-text-editable">
-                                    <p class="moto-text_system_10 text-center">Each bundle offered can create at least 8 different unique designs. See all the variations for each bundle below.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="moto-widget moto-widget-row moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="moto-widget moto-widget-row__column moto-cell col-sm-12 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto">
-                            <div data-widget-id="wid_1610192072_c0ubavs59"
-                              class="moto-widget moto-widget-divider moto-preset-default moto-align-center moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-medium moto-spacing-left-auto">
-                                <hr class="moto-widget-divider-line" style="max-width:100%;width:80%;">
-                            </div>
-                            <div class="moto-widget moto-widget-container undefined moto-container_content_5ff995561">
-                                <div class="moto-widget moto-widget-text moto-preset-default wow fadeInUp moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-medium moto-spacing-left-auto" data-widget="text" data-preset="default"
-                                  data-spacing="lama" data-animation="fadeInUp" data-draggable-disabled="">
-                                    <div class="moto-widget-text-content moto-widget-text-editable" aria-multiline="true">
-                                        <p class="moto-text_system_4 text-center text-dark heading-font">OPTION1: CREATE YOUR BIG PROJECT</p>
-                                        <div class="row">
-                                          <div class="moto-widget moto-widget-row__column moto-cell col-sm-2 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto"></div>
-                                          <div class="moto-widget moto-widget-row__column moto-cell col-sm-8 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto">
-                                              <div class="moto-widget moto-widget-text moto-preset-default wow fadeInUp moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text"
-                                                data-preset="default" data-spacing="sasa" data-animation="fadeInUp">
-                                                  <div class="moto-widget-text-content moto-widget-text-editable">
-                                                      <p>You have the rare opportunity to acquire the whole batch of 15 Nebu Natural Marble Carpets to accentuate and perfect your next hotel atrium, mall food court, or
-                                                          company headquarters.&nbsp;Get a special quote if you are looking to take the full quantity of natural carpets.</p>
-                                                  </div>
-                                              </div>
-                                          </div>
-                                          <div class="moto-widget moto-widget-row__column moto-cell col-sm-2 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="moto-widget moto-widget-row row-fixed moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="moto-widget moto-widget-row__column moto-cell col-sm-12 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto">
-                            <div class="moto-widget moto-widget-slider moto-widget-carousel moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto  wow slideInRight">
-                                <div class="carousel-block">
-                                    <div class="bx-wrapper" style="max-width: 900px;">
-                                        <div class="bx-viewport">
-                                            <div class="moto-widget-carousel-list slider">
-                                                <div class="moto-widget-carousel-item">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/13.jpg" alt="13.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/14.jpg" alt="14.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/15_5ffee76f45f95.jpg" alt="15.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="false">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/1.jpg" alt="1.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="false">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/2.jpg" alt="2.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="false">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/3.jpg" alt="3.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="true">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/4.jpg" alt="4.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="true">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/5.jpg" alt="5.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="true">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/6.jpg" alt="6.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="true">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/7.jpg" alt="7.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="true">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/8.jpg" alt="8.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="true">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/9.jpg" alt="9.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="true">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/10.jpg" alt="10.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="true">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/11.jpg" alt="11.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="true">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/12.jpg" alt="12.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="true">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/13.jpg" alt="13.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="true">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/14.jpg" alt="14.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item" aria-hidden="true">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/15_5ffee76f45f95.jpg" alt="15.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/1.jpg" alt="1.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/2.jpg" alt="2.jpg"></a>
-                                                </div>
-                                                <div class="moto-widget-carousel-item">
-                                                    <a class="moto-widget-carousel-link moto-link"><img src="{{url('public/images')}}/3.jpg" alt="3.jpg"></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="moto-widget-spacer-block" style="height:30px"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="moto-widget moto-widget-container moto-parallax moto-container_content_567184e0" >
-                <div class="moto-widget moto-widget-row row-fixed">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="moto-cell col-sm-12 moto-widget moto-widget-row__column">
-                                <div class="moto-widget moto-widget-text moto-preset-default wow fadeIn moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto">
-                                    <div class="moto-widget-text-content moto-widget-text-editable">
-                                        <p class="moto-text_system_3 text-center heading-font">Architects, Engineers, Interior Designers</p>
-                                    </div>
-                                </div>
-                                <div class="moto-widget moto-widget-text moto-preset-default wow fadeIn moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default"
-                                  data-spacing="aasa" data-animation="fadeIn">
-                                    <div class="moto-widget-text-content moto-widget-text-editable">
-                                        <p class="moto-text_system_4 text-center">Contact us directly&nbsp;for a special&nbsp;quote</p>
-                                    </div>
-                                </div>
-                                <div data-widget-id="wid__button__5ff03b49793be"
-                                  class="moto-widget moto-widget-button moto-preset-default moto-preset-provider-default moto-align-center moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto  wow fadeIn"
-                                  data-widget="button">
-                                    <a href="mailto:info@coralgems.us" data-action="mail" class="moto-widget-button-link moto-size-medium moto-link"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">Email
-                                        us NOW</span></a>
-                                </div>
-                                <div data-widget-id="wid_1609579340_w6w9hjimw" class="moto-widget moto-widget-spacer moto-preset-default moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto "
-                                 data-preset="default" data-spacing="maaa" data-visible-on="+desktop,tablet,mobile-h,mobile-v">
-                                    <div class="moto-widget-spacer-block" style="height:0px"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="moto-widget moto-widget-row">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="moto-cell col-sm-12 moto-widget moto-widget-row__column">
-                            <div data-widget-id="wid_1609579340_sh85etfi9" class="moto-widget moto-widget-spacer moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-medium moto-spacing-left-auto "
-                             data-preset="default" data-spacing="aama" data-visible-on="+desktop,tablet,mobile-h,mobile-v">
-                                <div class="moto-widget-spacer-block" style="height:0px"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="moto-widget moto-widget-row row-fixed">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="moto-cell col-sm-12 moto-widget moto-widget-row__column">
-                            <div class="moto-widget moto-widget-container undefined moto-container_content_600037fd1" data-visible-on="" data-css-name="moto-container_content_600037fd1"
-                            ><a class="moto-anchor" name="Option 2"></a>
-
-
-
-                            </div>
-                            <div class="moto-widget moto-widget-row moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto"
-                            >
-
-
-
-
-
-
-                                <div class="container-fluid">
-                                    <div class="row">
-
-
-
-
-
-
-
-
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="wid_1609579559_jw0vxhs6c" data-widget-id="wid_1609579559_jw0vxhs6c"
-                              class="moto-widget moto-widget-tile-gallery moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto  " data-widget="tile_gallery" data-preset="default">
-
-                            </div>
-                            <div data-widget-id="wid_1610539972_1nqfs5gpx" class="moto-widget moto-widget-spacer moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto "
-                              data-preset="default"  data-visible-on="+desktop,tablet,mobile-h,mobile-v">
-                                <div class="moto-widget-spacer-block" style="height:30px"></div>
-                            </div>
-                            <div class="moto-widget moto-widget-container undefined moto-container_content_600038882" data-visible-on="" data-css-name="moto-container_content_600038882"
-                            ><a class="moto-anchor" name="Option 3"></a>
-
-
-
-                                <div class="moto-widget moto-widget-text moto-preset-default wow fadeIn moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-medium moto-spacing-left-auto" data-widget="text" data-preset="default"
-                                 data-animation="fadeIn">
+                            <div class="moto-widget moto-widget-container undefined moto-container_content_600038882" data-visible-on="" data-css-name="moto-container_content_600038882">
+                                <div class="moto-widget moto-widget-text moto-preset-default wow fadeIn moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-medium moto-spacing-left-auto" data-widget="text" data-preset="default" data-animation="fadeIn">
                                     <div class="moto-widget-text-content moto-widget-text-editable">
                                         <p class="moto-text_system_5 text-center">OPTION 3: UNIQUE BUNDLES FOR HOMES</p>
                                     </div>
                                 </div>
-                                <div class="moto-widget moto-widget-row moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-grid-type="sm"
-                                >
-
-
-
-
-
-
+                                <div class="moto-widget moto-widget-row moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-grid-type="sm">
                                     <div class="container-fluid">
                                         <div class="row">
-
-
-                                            <div class="moto-widget moto-widget-row__column moto-cell col-sm-2 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto"
-                                             >
-
-
-
-
-
+                                            <div class="moto-widget moto-widget-row__column moto-cell col-sm-2 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto">
                                             </div>
-
-
-
-
-                                            <div class="moto-widget moto-widget-row__column moto-cell col-sm-8 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto"
-                                             >
-
-
-
-
-
-
+                                            <div class="moto-widget moto-widget-row__column moto-cell col-sm-8 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto">
                                                 <div class="moto-widget moto-widget-text moto-preset-default wow fadeInUp moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text"
                                                   data-preset="default" data-spacing="sasa" data-animation="fadeInUp">
                                                     <div class="moto-widget-text-content moto-widget-text-editable">
                                                       Purchase in sets of 15 square meters. Fit for homes, restaurants, and service brands in particular.</p>
                                                     </div>
                                                 </div>
-
-
                                             </div>
-
-
-
-
-                                            <div class="moto-widget moto-widget-row__column moto-cell col-sm-2 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto"
-                                             >
-
-
-
-
-
-                                            </div>
-
-
-
+                                            <div class="moto-widget moto-widget-row__column moto-cell col-sm-2 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto"></div>
                                         </div>
                                     </div>
                                 </div>
@@ -1731,6 +1339,38 @@
                     <div class="moto-widget-spacer-block" style="height:0px"></div>
                 </div>
             </div>
+            <div class="moto-widget moto-widget-container moto-parallax moto-container_content_567184e0" >
+                <div class="moto-widget moto-widget-row row-fixed">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="moto-cell col-sm-12 moto-widget moto-widget-row__column">
+                                <div class="moto-widget moto-widget-text moto-preset-default wow fadeIn moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto">
+                                    <div class="moto-widget-text-content moto-widget-text-editable">
+                                        <p class="moto-text_system_3 text-center heading-font">Architects, Engineers, Interior Designers</p>
+                                    </div>
+                                </div>
+                                <div class="moto-widget moto-widget-text moto-preset-default wow fadeIn moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default"
+                                  data-spacing="aasa" data-animation="fadeIn">
+                                    <div class="moto-widget-text-content moto-widget-text-editable">
+                                        <p class="moto-text_system_4 text-center">Contact us directly&nbsp;for a special&nbsp;quote</p>
+                                    </div>
+                                </div>
+                                <div data-widget-id="wid__button__5ff03b49793be"
+                                  class="moto-widget moto-widget-button moto-preset-default moto-preset-provider-default moto-align-center moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto  wow fadeIn"
+                                  data-widget="button">
+                                    <a href="mailto:info@coralgems.us" data-action="mail" class="moto-widget-button-link moto-size-medium moto-link"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">Email
+                                        us NOW</span></a>
+                                </div>
+                                <div data-widget-id="wid_1609579340_w6w9hjimw" class="moto-widget moto-widget-spacer moto-preset-default moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto "
+                                 data-preset="default" data-spacing="maaa" data-visible-on="+desktop,tablet,mobile-h,mobile-v">
+                                    <div class="moto-widget-spacer-block" style="height:0px"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div data-css-name="moto-container_content_56718843" class="moto-widget moto-widget-container moto-container_content_56718843">
                 <div data-widget-id="wid_1609579340_bbawl4820" class="moto-widget moto-widget-spacer moto-preset-default moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto "
                   data-preset="default" data-spacing="saaa" data-visible-on="+desktop,tablet,mobile-h,mobile-v">
