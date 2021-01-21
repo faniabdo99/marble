@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en" data-ng-app="website" class="js-focus-visible" data-js-focus-visible="">
-
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Exotic Marble Art - Home</title>
