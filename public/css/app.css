@@ -144,6 +144,39 @@ footer p {
   border: 0;
 }
 
+.bundle-benefits .col-lg-4 {
+  width: 90%;
+}
+.bundle-benefits .bundle-icon {
+  width: 80px;
+  height: 80px;
+  transform: rotate(45deg);
+  margin-bottom: -40px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #E8C136;
+  padding-top: 25px;
+  text-align: center;
+}
+.bundle-benefits .bundle-icon i {
+  color: #fff;
+  font-size: 2.3em;
+}
+.bundle-benefits .bundle-card {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.bundle-benefits .bundle-card .bundle-data {
+  padding: 75px 25px 25px 25px;
+  text-align: center;
+}
+.bundle-benefits .bundle-card .bundle-data h3 {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.bundle-benefits .bundle-card .bundle-data p {
+  color: #727272;
+}
+
 .image-background-section .dark-overlay {
   padding: 10vh;
   background-color: rgba(0, 0, 0, 0.5);
@@ -213,6 +246,15 @@ footer p {
   background-color: #d3aa18;
   color: #fff;
   transition: all ease 0.3s;
+}
+
+.images-grid .single-item {
+  width: 99%;
+  margin: 15px auto;
+}
+.images-grid .single-item a, .images-grid .single-item img {
+  width: 100%;
+  height: 350px;
 }
 
 .single-full-carpet-design {
@@ -310,6 +352,11 @@ footer p {
     width: 100%;
     height: auto;
     border-radius: 0;
+  }
+
+  .bundle-benefits .col-lg-4 {
+    width: 100%;
+    margin-bottom: 50px;
   }
 
   .image-background-section .dark-overlay {
