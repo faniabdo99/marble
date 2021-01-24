@@ -211,43 +211,6 @@ footer p {
   background: url("../images/2.jpg");
 }
 
-.section-padding {
-  padding: 8vh 0;
-}
-
-.section-title {
-  font-weight: bold;
-  font-size: 2.5em;
-  position: relative;
-}
-.section-title::after {
-  content: "";
-  width: 50px;
-  height: 6px;
-  background-color: #E8C136;
-  position: absolute;
-  bottom: -10px;
-  left: calc(50% - 25px);
-  right: calc(50% - 25px);
-}
-
-.text-brand {
-  color: #E8C136;
-}
-
-.brand-btn {
-  background-color: #E8C136;
-  padding: 10px 25px;
-  text-align: center;
-  color: #fff;
-  transition: all ease 0.3s;
-}
-.brand-btn:hover {
-  background-color: #d3aa18;
-  color: #fff;
-  transition: all ease 0.3s;
-}
-
 .images-grid .single-item {
   width: 99%;
   margin: 15px auto;
@@ -283,6 +246,9 @@ footer p {
   z-index: 999;
   transition: all ease 0.3s;
 }
+.single-full-carpet-design .view-more-button .modal-body-content {
+  display: none;
+}
 .single-full-carpet-design .view-more-button a {
   color: #fff;
   font-size: 2em;
@@ -313,6 +279,57 @@ footer p {
   height: 70px;
 }
 
+#single-image-modal .more-images-modal-list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+#single-image-modal .more-images-modal-list li {
+  margin: 10px;
+}
+#single-image-modal .more-images-modal-list li img {
+  width: 100%;
+  height: auto;
+}
+
+.section-padding {
+  padding: 8vh 0;
+}
+
+.section-title {
+  font-weight: bold;
+  font-size: 2.5em;
+  position: relative;
+}
+.section-title::after {
+  content: "";
+  width: 50px;
+  height: 6px;
+  background-color: #E8C136;
+  position: absolute;
+  bottom: -10px;
+  left: calc(50% - 25px);
+  right: calc(50% - 25px);
+}
+
+.text-brand {
+  color: #E8C136;
+}
+
+.brand-btn {
+  background-color: #E8C136;
+  padding: 10px 25px;
+  text-align: center;
+  color: #fff;
+  transition: all ease 0.3s;
+  border: 0;
+}
+.brand-btn:hover {
+  background-color: #d3aa18;
+  color: #fff;
+  transition: all ease 0.3s;
+}
+
 @media screen and (max-width: 768px) {
   .navbar .navbar-nav {
     background-color: #fff;
@@ -333,6 +350,7 @@ footer p {
   }
   .hero-section .dark-overlay h1 {
     font-size: 2.5em;
+    min-height: 100px;
   }
   .hero-section .dark-overlay p {
     font-size: 1em;

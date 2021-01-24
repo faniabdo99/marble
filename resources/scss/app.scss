@@ -43,7 +43,6 @@ body {
         font-size: 1.3em;
         font-weight: bold;
     }
-
     .navbar-nav li {
         margin-left: 15px;
 
@@ -108,7 +107,6 @@ footer {
         }
     }
 }
-
 #b2c-hero-section {
     background: url('../images/1.jpg') no-repeat center center;
     background-size: cover;
@@ -132,7 +130,6 @@ footer {
         height: 400px;
     }
 }
-
 //Contact Us
 .contact-us {
     ul {
@@ -247,53 +244,11 @@ footer {
 
 
 }
-
 #arch-interiors-bg {
     background: url('../images/2.jpg');
 }
-
 #newsletter-bg {
     background: url('../images/2.jpg');
-}
-
-//Classes
-.section-padding {
-    padding: 8vh 0;
-}
-
-.section-title {
-    font-weight: bold;
-    font-size: 2.5em;
-    position: relative;
-
-    &::after {
-        content: '';
-        width: 50px;
-        height: 6px;
-        background-color: $brand;
-        position: absolute;
-        bottom: -10px;
-        left: calc(50% - 25px);
-        right: calc(50% - 25px);
-    }
-}
-
-.text-brand {
-    color: $brand;
-}
-
-.brand-btn {
-    background-color: $brand;
-    padding: 10px 25px;
-    text-align: center;
-    color: #fff;
-    transition: all ease 0.3s;
-
-    &:hover {
-        background-color: darken($brand, 10%);
-        color: #fff;
-        transition: all ease 0.3s;
-    }
 }
 //Images Grid
 .images-grid{
@@ -336,7 +291,9 @@ footer {
         opacity: 0;
         z-index: 999;
         transition: all ease 0.3s;
-
+        .modal-body-content{
+            display: none;
+        }
         a {
             color: #fff;
             font-size: 2em;
@@ -373,8 +330,60 @@ footer {
         }
     }
 }
+#single-image-modal{
+    .more-images-modal-list{
+        list-style: none;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        li{
+             margin: 10px;
+        img{
+            width: 100%;
+            height: auto;
+        }
+    }
+    }
+}
 
+//Classes
+.section-padding {
+    padding: 8vh 0;
+}
 
+.section-title {
+    font-weight: bold;
+    font-size: 2.5em;
+    position: relative;
+
+    &::after {
+        content: '';
+        width: 50px;
+        height: 6px;
+        background-color: $brand;
+        position: absolute;
+        bottom: -10px;
+        left: calc(50% - 25px);
+        right: calc(50% - 25px);
+    }
+}
+
+.text-brand {
+    color: $brand;
+}
+
+.brand-btn {
+    background-color: $brand;
+    padding: 10px 25px;
+    text-align: center;
+    color: #fff;
+    transition: all ease 0.3s;
+    border:0;
+    &:hover {
+        background-color: darken($brand, 10%);
+        color: #fff;
+        transition: all ease 0.3s;
+    }
+}
 
 @media screen and (max-width:768px) {
   .navbar {
@@ -396,7 +405,7 @@ footer {
     .hero-section {
         .dark-overlay {
             padding: 12vh 2vh;
-            h1 {font-size: 2.5em;}
+            h1 {font-size: 2.5em;min-height: 100px;}
             p {font-size: 1em;}
         }
     }
