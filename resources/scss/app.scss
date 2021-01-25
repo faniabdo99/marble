@@ -211,6 +211,9 @@ footer {
 }
 //Image Background Section
 .image-background-section {
+    // background-repeat: no-repeat;
+    // background-position: center center;
+    // background-size: cover;
     .dark-overlay {
         padding: 10vh;
         background-color: rgba(0, 0, 0, 0.5);
@@ -244,12 +247,8 @@ footer {
 
 
 }
-#arch-interiors-bg {
-    background: url('../images/2.jpg');
-}
-#newsletter-bg {
-    background: url('../images/2.jpg');
-}
+#arch-interiors-bg {background: url('../images/image-hero-bg.jpg');}
+#newsletter-bg {background: url('../images/image-hero-bg.jpg');}
 //Images Grid
 .images-grid{
     .single-item{
@@ -266,7 +265,6 @@ footer {
     padding: 0;
     position: relative;
     margin-bottom: 30px;
-
     &:hover {
         .view-more-button {
             opacity: 1;
@@ -277,7 +275,7 @@ footer {
     img.main-img {
         display: block;
         width: 100%;
-        height: 300px;
+        height: 105px;
     }
 
     .view-more-button {
@@ -317,15 +315,13 @@ footer {
         list-style: none;
         padding: 0 25px;
         position: absolute;
-        bottom: 25px;
-
+        bottom: 5px;
         li {
             img {
                 display: block;
-                border-radius: 50%;
                 border: 2px solid $brand;
-                width: 70px;
-                height: 70px;
+                width: 100px;
+                height: auto;
             }
         }
     }

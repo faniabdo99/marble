@@ -204,11 +204,11 @@ footer p {
 }
 
 #arch-interiors-bg {
-  background: url("../images/2.jpg");
+  background: url("../images/image-hero-bg.jpg");
 }
 
 #newsletter-bg {
-  background: url("../images/2.jpg");
+  background: url("../images/image-hero-bg.jpg");
 }
 
 .images-grid .single-item {
@@ -232,7 +232,7 @@ footer p {
 .single-full-carpet-design img.main-img {
   display: block;
   width: 100%;
-  height: 300px;
+  height: 105px;
 }
 .single-full-carpet-design .view-more-button {
   position: absolute;
@@ -269,14 +269,13 @@ footer p {
   list-style: none;
   padding: 0 25px;
   position: absolute;
-  bottom: 25px;
+  bottom: 5px;
 }
 .single-full-carpet-design .more-variations-list li img {
   display: block;
-  border-radius: 50%;
   border: 2px solid #E8C136;
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: auto;
 }
 
 #single-image-modal .more-images-modal-list {
