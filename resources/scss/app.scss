@@ -9,11 +9,10 @@ h5,
 h6 {
     font-family: 'Raleway', sans-serif;
 }
-
 body {
     font-family: 'PT Sans', tahoma;
+    scroll-behavior: smooth;
 }
-
 //Navbar
 .navbar {
     background-color: rgba(0, 0, 0, 0);
@@ -183,13 +182,13 @@ footer {
         margin-bottom: -40px;
         margin-left: auto;
         margin-right: auto;
-        // margin: 0 auto -40px auto;
         background-color: $brand;
         padding-top: 25px;
         text-align: center;
         i{
             color: #fff;
             font-size: 2.3em;
+            transform: rotate(-45deg);
         }
     }
     .bundle-card{
@@ -211,13 +210,9 @@ footer {
 }
 //Image Background Section
 .image-background-section {
-    // background-repeat: no-repeat;
-    // background-position: center center;
-    // background-size: cover;
     .dark-overlay {
         padding: 10vh;
         background-color: rgba(0, 0, 0, 0.5);
-
         h2 {
             color: #fff;
             font-weight: bold;
@@ -244,19 +239,31 @@ footer {
             }
         }
     }
-
-
 }
-#arch-interiors-bg {background: url('../images/image-hero-bg.jpg');}
-#newsletter-bg {background: url('../images/image-hero-bg.jpg');}
+#arch-interiors-bg {
+  background: url('../images/image-hero-bg.jpg') no-repeat center center;
+  background-size: cover;
+}
+#newsletter-bg {
+  background: url('../images/image-hero-bg.jpg') no-repeat center center;
+  background-size: cover;
+}
 //Images Grid
 .images-grid{
+  .countertops{
+    .single-item{
+      a,img{
+          width: 100%;
+          height: 350px;
+      }
+    }
+  }
     .single-item{
         width: 99%;
         margin: 15px auto;
         a,img{
             width: 100%;
-            height: 350px;
+            height: 275px;
         }
     }
 }
@@ -380,7 +387,12 @@ footer {
         transition: all ease 0.3s;
     }
 }
-
+.b2b-slider{
+  width: 90%;
+  img{
+    height: 440px;
+  }
+}
 @media screen and (max-width:768px) {
   .navbar {
       .navbar-nav {
@@ -437,6 +449,13 @@ footer {
     .section-title {font-size: 1.7em;}
     //Full Product
     .single-full-carpet-design {margin-bottom: 10px;}
+    .images-grid .single-item a, .images-grid .single-item img{
+        height: auto;
+        width: 100%;
+    }
+    .b2b-slider img{
+      height: 78px;
+    }
 }
 
 

@@ -310,7 +310,7 @@
                     <p class="mb-5">Once acquired, we explore the most innovatice ways to arrange the bundles and tiles,
                         to create unrepeatable and unique spaces, perfect for hotel atriums, plazas, business hubs,
                         restaurants, homes, and more.</p>
-                    <a href="#" class="brand-btn">Learn More</a>
+                    <a href="https://www.coralgems.us/" class="brand-btn">Learn More</a>
                 </div>
                 <div class="col-lg-6">
                     <img class="about-image" src="{{url('public/images/b2c')}}/about-b2c-image.jpg" alt="About EMA">
@@ -325,7 +325,7 @@
                     <div class="col-12 text-center">
                         <h2>Get your Enginners or Interior Designers</h2>
                         <p>To Contact us For Deminsions and Cutting</p>
-                        <a href="#" class="brand-btn">Email Us</a>
+                        <a href="mailto:info@coralgems.us" target="_blank" class="brand-btn">Email Us</a>
                     </div>
                 </div>
             </div>
@@ -339,7 +339,7 @@
                     <p class="text-center mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                 </div>
             </div>
-            <div class="row">
+            <div class="row countertops">
                 <div class="col-lg-4 col-12">
                     <div class="single-item">
                         <a href="{{url('public/images/b2c/countertops/original')}}/1.jpg" data-fancybox="countertops">
