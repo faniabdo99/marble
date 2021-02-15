@@ -25,7 +25,7 @@
 <body>
     <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="#">Exotic Marble Arts</a>
+            <a class="navbar-brand" href="#">Exotic Marble Art</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fas fa-bars"></i>
@@ -50,7 +50,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h1 class="font-weight-bold"><span class="animated-text">Exotic</span> Marble Arts</h1>
+                        <h1 class="font-weight-bold"><span class="animated-text">Exotic</span> Marble Art</h1>
                         <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, tenetur.</p>
                         <a href="#" class="brand-btn">Explore Carpets</a>
                     </div>
@@ -625,7 +625,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-6">
-                    <p class="text-left">Exotic Marble Arts</p>
+                    <p class="text-left">Exotic Marble Art</p>
                 </div>
                 <div class="col-6">
                     <p class="text-right">Address Line Goes Here</p>
