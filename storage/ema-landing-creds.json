@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ema-landing",
+  "private_key_id": "2a9540d9ccd7f1e5508c131cc90875bc941f5f17",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPUtDX51ifqyfl\nLY2a1NuOhyVfMev8bqBTa0McQi0wDzlHowy6UM7ZPLdvvGsKy/sAFYIMBwN0RX6u\n10LMYsvKT6AZK82MjjUZroUS0vixLDyOVjwbuYz2NZpeGEgTj5o3tuZHW4CfJtJL\nClIsWzn6iO34ZXCTjKUKf5McO8ruArWyfge01gNPOy+k6qi6eAv+WviewJ703+zi\nRLwHevA8YQG1Q/CVcNHyolalgo2TCxe2ToaVhyq1Iu4mtVTfJBq51sQuX4njJzvX\njTqQqtwhWIQ1zHez8rKkq01pn5NF/7VRhsCQUNWmCl9qPPj0twh/Ht5Qbuef4Nra\nee4tkPRTAgMBAAECggEAGFp6IjWtWXQ70zVqWmTQ6ecM8qAI+VvS4lnXjXWxN/le\nQk3yW7Zfb4phoRrjFXKTs+/zqReH/rnQTOVG9HPVLQtaqOxIgRmo7DQ7aHdwyqo5\nn/YHQK7GxQ9Wq6Z0mN5N1im992IU+PYfxaB7Vg4qS+f4h7y05F2Brcb/uExwrwCF\nw9L8eJ1paOABv4OSCR4kzyGUt7ZYVgiQguO93nwu5tTwjSWX33XveqUVFdZkVhgR\nESjmnuPU+HwKYZoqQE9hpaD7SZXVTMav5mN7xyi9T9CvrmePVRho/5F6Bo6GumnU\n3cvZbMvMY0Gd9BUIHdiNcyqAsNmI17HdWU/fehyMAQKBgQDDEhBnWdCTzMplCGAs\nu2L4PDgX6jDBkJCBcr3d1Dg+wZpjIfkmYa1s893zE59SL8MbVJ0Z0jRj+NLERWKo\n011/kvma0yFZ9St/FoWQYVlyy8fwjuv7TDNtlKDOoQKEB0iu3w+9/QtXpmvkjpEH\nxjIBAaZ+v0E8LMvY1nXEp8O6/wKBgQC8FwgaNCxgpwF3fv5PkRnoDQYZgNA7RKhH\n3Kuh08PbV2CQjOXkkZtTscnpklwCdQTg83yl9pPKf5mpMt+kFL/wvN9Y7fnMjy3W\nM1fMg8/WYQNY0nsFT0sVblQ0qv3bi5NdE41H5M55+Wl8kO+1KVrWq0Ov25wo2LiR\n8VJOEyJqrQKBgQCn3xDM0EcmGnQG1FlnxW8bbz9anUiOG2mwbN0mXK52m0fQjfkK\n5b5IZ+mWeUl/gejmyT9VbEd3zTccfxWzcgohcotpiM5Hyyw+d1RD9vLyTppm06gT\nH/WWFPT6PSecFWSgUQgMGQq8yFRLYcE/rnlz0kbFBrQOJALdPVol/bX8YwKBgDns\nweMIBE6zwADkDD/GyPqs4B8Ei5xlFYokDHtm8x9etm9t5PLSYMqSq0MSfuGG1jzM\n36tg17z6NQFlmHg4p6/lCsehale0FIKuBzEFuwEjmVtGXvqQo+fytV4O9uUhA/4b\nIlxsu6XWyMTDAf+Bv+bykYLcGCiALb9MWXOP8v51AoGAPG4s3avdpL0oBQOl3fV3\nFuEIqo3v20to1IQL1p7JQ10tQQIP5jKAfffThID9AyI6443kj1DJD5V8Ro6Hec6Z\nDs3tPrcm6zgIqLVs2LypsiEO3hTnEx/brqKF3KJC4YWHMIwooq0SVUHdQv0D78eg\nWFr4UpYp8iaoM80r6czm8K4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ema-service-account@ema-landing.iam.gserviceaccount.com",
+  "client_id": "102667853400854632586",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ema-service-account%40ema-landing.iam.gserviceaccount.com"
+}

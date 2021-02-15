@@ -47,6 +47,7 @@
                         <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, tenetur.</p>
                         <a href="#create-big-project" class="brand-btn">Architects</a>
                         <a href="#full-marble-carpet" class="brand-btn">Interior Designers</a>
+                        <a href="#carpets" class="brand-btn">Explore Carpets</a>
                     </div>
                 </div>
             </div>
@@ -55,6 +56,253 @@
             </div>
         </div>
     </section>
+    <section class="products-list section-padding" id="carpets">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title text-center mb-4"><span class="text-brand">Natural</span> Carpets For Home</h2>
+                    <p class="text-center mb-4">Select One of Four Options For Every Uniuqe Peice, The Option You Choose Will be the Final Display of These Options for Ever Only at Your Home</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 col-12">
+                    <div class="single-full-carpet-design">
+                        <div class="view-more-button">
+                            <a href="javascript:;" data-toggle="modal" data-name="one" data-target="#single-image-modal">View More</a>
+                        </div>
+                        <img class="main-img" src="{{url('public/images')}}/b2c/natural-carpets/covers/1.1.jpg" alt="Marble Art Natural Carpets 1.1">
+                        <ul class="more-variations-list">
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/1.2.jpg" alt="Marble Art Natural Carpets 1.2"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/1.3.jpg" alt="Marble Art Natural Carpets 1.3"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/1.4.jpg" alt="Marble Art Natural Carpets 1.4"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-full-carpet-design">
+                        <div class="view-more-button">
+                            <a href="javascript:;" data-toggle="modal" data-name="two" data-target="#single-image-modal">View More</a>
+                        </div>
+                        <img class="main-img" src="{{url('public/images')}}/b2c/natural-carpets/covers/2.1.jpg" alt="Marble Art Natural Carpets 2.1">
+                        <ul class="more-variations-list">
+                            <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/2.2.jpg" alt="Marble Art Natural Carpets 2.2"></li>
+                            <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/2.3.jpg" alt="Marble Art Natural Carpets 2.3"></li>
+                            <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/2.4.jpg" alt="Marble Art Natural Carpets 2.4"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-full-carpet-design">
+                        <div class="view-more-button">
+                            <a href="javascript:;" data-toggle="modal" data-name="three" data-target="#single-image-modal">View More</a>
+                        </div>
+                        <img class="main-img" src="{{url('public/images')}}/b2c/natural-carpets/covers/3.1.jpg" alt="Marble Art Natural Carpets 3.1">
+                        <ul class="more-variations-list">
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/3.2.jpg" alt="Marble Art Natural Carpets 3.2"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/3.3.jpg" alt="Marble Art Natural Carpets 3.3"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/3.4.jpg" alt="Marble Art Natural Carpets 3.4"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-full-carpet-design">
+                        <div class="view-more-button">
+                            <a href="javascript:;" data-toggle="modal" data-name="four" data-target="#single-image-modal">View More</a>
+                        </div>
+                        <img class="main-img" src="{{url('public/images')}}/b2c/natural-carpets/covers/4.1.jpg" alt="Marble Art Natural Carpets 4.1">
+                        <ul class="more-variations-list">
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/4.2.jpg" alt="Marble Art Natural Carpets 4.2"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/4.3.jpg" alt="Marble Art Natural Carpets 4.3"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/4.4.jpg" alt="Marble Art Natural Carpets 4.4"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-full-carpet-design">
+                        <div class="view-more-button">
+                            <a href="javascript:;" data-toggle="modal" data-name="five" data-target="#single-image-modal">View More</a>
+                        </div>
+                        <img class="main-img" src="{{url('public/images')}}/b2c/natural-carpets/covers/5.1.jpg" alt="Marble Art Natural Carpets 5.1">
+                        <ul class="more-variations-list">
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/5.2.jpg" alt="Marble Art Natural Carpets 5.2"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/5.3.jpg" alt="Marble Art Natural Carpets 5.3"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/5.4.jpg" alt="Marble Art Natural Carpets 5.4"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-full-carpet-design">
+                        <div class="view-more-button">
+                            <a href="javascript:;" data-toggle="modal" data-name="six" data-target="#single-image-modal">View More</a>
+                        </div>
+                        <img class="main-img" src="{{url('public/images')}}/b2c/natural-carpets/covers/6.1.jpg" alt="Marble Art Natural Carpets 6.1">
+                        <ul class="more-variations-list">
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/6.2.jpg" alt="Marble Art Natural Carpets 6.2"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/6.3.jpg" alt="Marble Art Natural Carpets 6.3"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/6.4.jpg" alt="Marble Art Natural Carpets 6.4"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-full-carpet-design">
+                        <div class="view-more-button">
+                            <a href="javascript:;" data-toggle="modal" data-name="seven" data-target="#single-image-modal">View More</a>
+                        </div>
+                        <img class="main-img" src="{{url('public/images')}}/b2c/natural-carpets/covers/7.1.jpg" alt="Marble Art Natural Carpets 7.1">
+                        <ul class="more-variations-list">
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/7.2.jpg" alt="Marble Art Natural Carpets 7.2"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/7.3.jpg" alt="Marble Art Natural Carpets 7.3"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/7.4.jpg" alt="Marble Art Natural Carpets 7.4"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-full-carpet-design">
+                        <div class="view-more-button">
+                            <a href="javascript:;" data-toggle="modal" data-name="eight" data-target="#single-image-modal">View More</a>
+                        </div>
+                        <img class="main-img" src="{{url('public/images')}}/b2c/natural-carpets/covers/8.1.jpg" alt="Marble Art Natural Carpets 8.1">
+                        <ul class="more-variations-list">
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/8.2.jpg" alt="Marble Art Natural Carpets 8.2"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/8.3.jpg" alt="Marble Art Natural Carpets 8.3"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/8.4.jpg" alt="Marble Art Natural Carpets 8.4"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-full-carpet-design">
+                        <div class="view-more-button">
+                            <a href="javascript:;" data-toggle="modal" data-name="nine" data-target="#single-image-modal">View More</a>
+                        </div>
+                        <img class="main-img" src="{{url('public/images')}}/b2c/natural-carpets/covers/9.1.jpg" alt="Marble Art Natural Carpets 9.1">
+                        <ul class="more-variations-list">
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/9.2.jpg" alt="Marble Art Natural Carpets 9.2"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/9.3.jpg" alt="Marble Art Natural Carpets 9.3"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/9.4.jpg" alt="Marble Art Natural Carpets 9.4"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-full-carpet-design">
+                        <div class="view-more-button">
+                            <a href="javascript:;" data-toggle="modal" data-name="ten" data-target="#single-image-modal">View More</a>
+                        </div>
+                        <img class="main-img" src="{{url('public/images')}}/b2c/natural-carpets/covers/10.1.jpg" alt="Marble Art Natural Carpets 10.1">
+                        <ul class="more-variations-list">
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/10.2.jpg" alt="Marble Art Natural Carpets 10.2"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/10.3.jpg" alt="Marble Art Natural Carpets 10.3"></li>
+                          <li><img src="{{url('public/images')}}/b2c/natural-carpets/thumbs/10.4.jpg" alt="Marble Art Natural Carpets 10.4"></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="modal fade" id="single-image-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Carpet Details</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="modal-body-content d-none" id="one">
+                        <h4>In Action</h4>
+                        <ul class="more-images-modal-list">
+                            <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/1.2.jpg" data-fancybox="in-action-1"><img src="{{url('public/images')}}/b2c/natural-carpets/details/1.2.jpg" alt=""></a></li>
+                            <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/1.3.jpg" data-fancybox="in-action-1"><img src="{{url('public/images')}}/b2c/natural-carpets/details/1.3.jpg" alt=""></a></li>
+                            <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/1.4.jpg" data-fancybox="in-action-1"><img src="{{url('public/images')}}/b2c/natural-carpets/details/1.4.jpg" alt=""></a></li>
+                            {{-- <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="{{url('public/images')}}/b2c/natural-carpets/covers/8.1.jpg" alt=""></a></li> --}}
+                        </ul>
+                    </div>
+                    <div class="modal-body-content d-none" id="two">
+                        <h4>In Action</h4>
+                        <ul class="more-images-modal-list">
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/2.2.jpg" data-fancybox="in-action-2"><img src="{{url('public/images')}}/b2c/natural-carpets/details/2.2.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/2.3.jpg" data-fancybox="in-action-2"><img src="{{url('public/images')}}/b2c/natural-carpets/details/2.3.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/2.4.jpg" data-fancybox="in-action-2"><img src="{{url('public/images')}}/b2c/natural-carpets/details/2.4.jpg" alt=""></a></li>
+                          {{-- <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/1.2.jpg" data-fancybox="in-action-1"><img src="{{url('public/images')}}/b2c/natural-carpets/details/1.2.jpg" alt=""></a></li> --}}
+                        </ul>
+                    </div>
+                    <div class="modal-body-content d-none" id="three">
+                        <h4>In Action</h4>
+                        <ul class="more-images-modal-list">
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/3.2.jpg" data-fancybox="in-action-3"><img src="{{url('public/images')}}/b2c/natural-carpets/details/3.2.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/3.3.jpg" data-fancybox="in-action-3"><img src="{{url('public/images')}}/b2c/natural-carpets/details/3.3.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/3.4.jpg" data-fancybox="in-action-3"><img src="{{url('public/images')}}/b2c/natural-carpets/details/3.4.jpg" alt=""></a></li>
+                          {{-- <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/1.2.jpg" data-fancybox="in-action-1"><img src="{{url('public/images')}}/b2c/natural-carpets/details/1.2.jpg" alt=""></a></li> --}}
+                        </ul>
+                    </div>
+                    <div class="modal-body-content d-none" id="four">
+                        <h4>In Action</h4>
+                        <ul class="more-images-modal-list">
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/4.2.jpg" data-fancybox="in-action-4"><img src="{{url('public/images')}}/b2c/natural-carpets/details/4.2.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/4.3.jpg" data-fancybox="in-action-4"><img src="{{url('public/images')}}/b2c/natural-carpets/details/4.3.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/4.4.jpg" data-fancybox="in-action-4"><img src="{{url('public/images')}}/b2c/natural-carpets/details/4.4.jpg" alt=""></a></li>
+                          {{-- <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/1.2.jpg" data-fancybox="in-action-1"><img src="{{url('public/images')}}/b2c/natural-carpets/details/1.2.jpg" alt=""></a></li> --}}
+                        </ul>
+                    </div>
+                    <div class="modal-body-content d-none" id="five">
+                        <h4>In Action</h4>
+                        <ul class="more-images-modal-list">
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/5.2.jpg" data-fancybox="in-action-5"><img src="{{url('public/images')}}/b2c/natural-carpets/details/5.2.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/5.3.jpg" data-fancybox="in-action-5"><img src="{{url('public/images')}}/b2c/natural-carpets/details/5.3.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/5.4.jpg" data-fancybox="in-action-5"><img src="{{url('public/images')}}/b2c/natural-carpets/details/5.4.jpg" alt=""></a></li>
+                          {{-- <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/1.2.jpg" data-fancybox="in-action-1"><img src="{{url('public/images')}}/b2c/natural-carpets/details/1.2.jpg" alt=""></a></li> --}}
+                        </ul>
+                    </div>
+                    <div class="modal-body-content d-none" id="six">
+                        <h4>In Action</h4>
+                        <ul class="more-images-modal-list">
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/6.2.jpg" data-fancybox="in-action-6"><img src="{{url('public/images')}}/b2c/natural-carpets/details/6.2.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/6.3.jpg" data-fancybox="in-action-6"><img src="{{url('public/images')}}/b2c/natural-carpets/details/6.3.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/6.4.jpg" data-fancybox="in-action-6"><img src="{{url('public/images')}}/b2c/natural-carpets/details/6.4.jpg" alt=""></a></li>
+                          {{-- <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/1.2.jpg" data-fancybox="in-action-1"><img src="{{url('public/images')}}/b2c/natural-carpets/details/1.2.jpg" alt=""></a></li> --}}
+                        </ul>
+                    </div>
+                    <div class="modal-body-content d-none" id="seven">
+                        <h4>In Action</h4>
+                        <ul class="more-images-modal-list">
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/7.2.jpg" data-fancybox="in-action-7"><img src="{{url('public/images')}}/b2c/natural-carpets/details/7.2.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/7.3.jpg" data-fancybox="in-action-7"><img src="{{url('public/images')}}/b2c/natural-carpets/details/7.3.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/7.4.jpg" data-fancybox="in-action-7"><img src="{{url('public/images')}}/b2c/natural-carpets/details/7.4.jpg" alt=""></a></li>
+                          {{-- <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/1.2.jpg" data-fancybox="in-action-1"><img src="{{url('public/images')}}/b2c/natural-carpets/details/1.2.jpg" alt=""></a></li> --}}
+                        </ul>
+                    </div>
+                    <div class="modal-body-content d-none" id="eight">
+                        <h4>In Action</h4>
+                        <ul class="more-images-modal-list">
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/8.2.jpg" data-fancybox="in-action-8"><img src="{{url('public/images')}}/b2c/natural-carpets/details/8.2.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/8.3.jpg" data-fancybox="in-action-8"><img src="{{url('public/images')}}/b2c/natural-carpets/details/8.3.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/8.4.jpg" data-fancybox="in-action-8"><img src="{{url('public/images')}}/b2c/natural-carpets/details/8.4.jpg" alt=""></a></li>
+                          {{-- <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/1.2.jpg" data-fancybox="in-action-1"><img src="{{url('public/images')}}/b2c/natural-carpets/details/1.2.jpg" alt=""></a></li> --}}
+                        </ul>
+                    </div>
+                    <div class="modal-body-content d-none" id="nine">
+                        <h4>In Action</h4>
+                        <ul class="more-images-modal-list">
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/9.2.jpg" data-fancybox="in-action-9"><img src="{{url('public/images')}}/b2c/natural-carpets/details/9.2.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/9.3.jpg" data-fancybox="in-action-9"><img src="{{url('public/images')}}/b2c/natural-carpets/details/9.3.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/9.4.jpg" data-fancybox="in-action-9"><img src="{{url('public/images')}}/b2c/natural-carpets/details/9.4.jpg" alt=""></a></li>
+                          {{-- <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/1.2.jpg" data-fancybox="in-action-1"><img src="{{url('public/images')}}/b2c/natural-carpets/details/1.2.jpg" alt=""></a></li> --}}
+                        </ul>
+                    </div>
+                    <div class="modal-body-content d-none" id="ten">
+                        <h4>In Action</h4>
+                        <ul class="more-images-modal-list">
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/10.2.jpg" data-fancybox="in-action-10"><img src="{{url('public/images')}}/b2c/natural-carpets/details/10.2.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/10.3.jpg" data-fancybox="in-action-10"><img src="{{url('public/images')}}/b2c/natural-carpets/details/10.3.jpg" alt=""></a></li>
+                          <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/10.4.jpg" data-fancybox="in-action-10"><img src="{{url('public/images')}}/b2c/natural-carpets/details/10.4.jpg" alt=""></a></li>
+                          {{-- <li><a href="{{url('public/images')}}/b2c/natural-carpets/original/1.2.jpg" data-fancybox="in-action-1"><img src="{{url('public/images')}}/b2c/natural-carpets/details/1.2.jpg" alt=""></a></li> --}}
+                        </ul>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="brand-btn" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
     <section class="about-us section-padding">
         <div class="container">
             <div class="row">
@@ -72,6 +320,60 @@
                 </div>
                 <div class="col-lg-6">
                   <iframe class="w-100 h-100 mx-auto" src="https://www.youtube.com/embed/d24-pM914aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="images-grid section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title text-center mb-5"><span class="text-brand">Unique</span> Countertops</h2>
+                    <p class="text-center mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                </div>
+            </div>
+            <div class="row countertops">
+                <div class="col-lg-4 col-12">
+                    <div class="single-item">
+                        <a href="{{url('public/images/b2c/countertops/original')}}/1.jpg" data-fancybox="countertops">
+                            <img src="{{url('public/images/b2c/countertops/thumbs')}}/1.jpg" alt="Countertops-1">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2c/countertops/original')}}/2.jpg" data-fancybox="countertops">
+                          <img src="{{url('public/images/b2c/countertops/thumbs')}}/2.jpg" alt="Countertops-2">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2c/countertops/original')}}/3.jpg" data-fancybox="countertops">
+                          <img src="{{url('public/images/b2c/countertops/thumbs')}}/3.jpg" alt="Countertops-3">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2c/countertops/original')}}/4.jpg" data-fancybox="countertops">
+                          <img src="{{url('public/images/b2c/countertops/thumbs')}}/4.jpg" alt="Countertops-4">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2c/countertops/original')}}/5.jpg" data-fancybox="countertops">
+                          <img src="{{url('public/images/b2c/countertops/thumbs')}}/5.jpg" alt="Countertops-5">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2c/countertops/original')}}/6.jpg" data-fancybox="countertops">
+                          <img src="{{url('public/images/b2c/countertops/thumbs')}}/6.jpg" alt="Countertops-6">
+                      </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -141,14 +443,14 @@
                     </ul>
                 </div>
                 <div class="col-lg-8">
-                    <form action="#" method="post">
+                    <form>
                         <label for="name">Name</label>
-                        <input type="text" name="name" id="name" placeholder="Please enter your name">
+                        <input type="text" name="name" id="name" placeholder="Please enter your name" required>
                         <label for="email">Email</label>
-                        <input type="text" name="email" id="email" placeholder="Please enter your email">
+                        <input type="email" name="email" id="email" placeholder="Please enter your email" required>
                         <label for="message">Message</label>
-                        <textarea name="message" id="message" rows="10" placeholder="How can we help?"></textarea>
-                        <button class="brand-btn" type="submit">Submit</button>
+                        <textarea name="message" id="message" rows="10" placeholder="How can we help?" required></textarea>
+                        <button class="brand-btn" type="submit" id="submit-contact-form" data-action="{{route('contact.post')}}">Submit</button>
                     </form>
                 </div>
             </div>
@@ -418,6 +720,14 @@
             $('.view-more-button a').click(function () {
                 $('#single-image-modal .modal-body-content').addClass('d-none');
                 $('#single-image-modal ' + '#' + $(this).data('name')).removeClass('d-none');
+            });
+            //Submit contact us form
+            $('#submit-contact-form').click(function(e){
+                e.preventDefault();
+                var ActionRoute = $(this).data('action');
+                var Data = $(this).parent().serialize();
+                Data.toArray();
+                console.log(Data);
             });
         });
 
