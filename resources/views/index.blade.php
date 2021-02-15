@@ -10,8 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=PT+Sans&family=Raleway:wght@400;600&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans&family=Raleway:wght@400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{url('public')}}/css/assets.min.css">
     <link rel="stylesheet" href="{{url('public')}}/css/app.css">
@@ -450,7 +449,7 @@
                         <input type="email" name="email" id="email" placeholder="Please enter your email" required>
                         <label for="message">Message</label>
                         <textarea name="message" id="message" rows="10" placeholder="How can we help?" required></textarea>
-                        <button class="brand-btn" type="submit" id="submit-contact-form" data-action="{{route('contact.post')}}">Submit</button>
+                        <button class="brand-btn mb-3" type="submit" id="submit-contact-form" data-action="{{route('contact.post')}}">Submit</button>
                     </form>
                 </div>
             </div>
@@ -663,9 +662,9 @@
                     <div class="col-12 text-center">
                         <h2>Sign up to Our Newsletter</h2>
                         <p>Special Offers, News, and More ...</p>
-                        <form action="#" method="post">
+                        <form>
                             <input type="email" name="email" placeholder="Enter your email here">
-                            <button class="brand-btn">Join</button>
+                            <button id="join-newsletter" data-action="{{route('newsletter.post')}}" class="brand-btn">Join</button>
                         </form>
                     </div>
                 </div>
@@ -723,12 +722,50 @@
             });
             //Submit contact us form
             $('#submit-contact-form').click(function(e){
+                $(this).html('<i class="fas fa-spinner fa-spin"></i>');
+                $('.alert').remove();
                 e.preventDefault();
                 var ActionRoute = $(this).data('action');
                 var Data = $(this).parent().serialize();
-                Data.toArray();
-                console.log(Data);
+                var This = $(this);
+                $.ajax({
+                    url: ActionRoute,
+                    method: 'POST',
+                    data: Data,
+                    success:function(response){
+                        This.html('Submit');
+                        This.parent().append(`<div class="alert alert-success">${response}</div>`);
+                        This.parent().trigger("reset");
+                    },
+                    error:function(response, errorThrown){
+                        This.html('Submit');
+                        This.parent().append(`<div class="alert alert-danger">${response.responseJSON[0]}</div>`);
+                    }
+                });
             });
+            $('#join-newsletter').click(function(e){
+                $(this).html('<i class="fas fa-spinner fa-spin"></i>');
+                $('.alert').remove();
+                e.preventDefault();
+                var ActionRoute = $(this).data('action');
+                var Data = $(this).parent().serialize();
+                var This = $(this);
+                $.ajax({
+                    url: ActionRoute,
+                    method: 'POST',
+                    data: Data,
+                    success:function(response){
+                        This.html('Submit');
+                        This.parent().parent().append(`<div class="alert alert-success mt-3">${response}</div>`);
+                        This.parent().trigger("reset");
+                    },
+                    error:function(response, errorThrown){
+                        This.html('Submit');
+                        This.parent().parent().append(`<div class="alert alert-danger mt-3">${response.responseJSON[0]}</div>`);
+                    }
+                });
+            });
+            
         });
 
     </script>
