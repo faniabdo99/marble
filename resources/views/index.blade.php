@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en" data-ng-app="website" class="js-focus-visible" data-js-focus-visible="">
-
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Exotic Marble Art - Home</title>
@@ -25,22 +24,16 @@
 <body>
     <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="#">Exotic Marble Art</a>
+            <a class="navbar-brand" href="/">Exotic Marble Arts</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fas fa-bars"></i>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Products</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
-                    </li>
+                    <li class="nav-item"><a class="nav-link" href="#">Products</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -52,7 +45,8 @@
                     <div class="col-12">
                         <h1 class="font-weight-bold"><span class="animated-text">Exotic</span> Marble Art</h1>
                         <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, tenetur.</p>
-                        <a href="#" class="brand-btn">Explore Carpets</a>
+                        <a href="#create-big-project" class="brand-btn">Architects</a>
+                        <a href="#full-marble-carpet" class="brand-btn">Interior Designers</a>
                     </div>
                 </div>
             </div>
@@ -61,356 +55,6 @@
             </div>
         </div>
     </section>
-    <section class="products-list section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <h2 class="section-title text-center mb-4"><span class="text-brand">Natural</span> Carpets For Home
-                    </h2>
-                    <p class="text-center mb-4">Select One of Four Options For Every Uniuqe Peice, The Option You Choose
-                        Will be the Final Display of These Options for Ever Only at Your Home</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6 col-12">
-                    <div class="single-full-carpet-design">
-                        <div class="view-more-button">
-                            <a href="javascript:;" data-toggle="modal" data-name="one"
-                                data-target="#single-image-modal">View More</a>
-                        </div>
-                        <img class="main-img" src="https://placehold.it/1500x1000" alt="">
-                        <ul class="more-variations-list">
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="single-full-carpet-design">
-                        <div class="view-more-button">
-                            <a href="javascript:;" data-toggle="modal" data-name="two"
-                                data-target="#single-image-modal">View More</a>
-                        </div>
-                        <img class="main-img" src="https://placehold.it/1500x1000" alt="">
-                        <ul class="more-variations-list">
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="single-full-carpet-design">
-                        <div class="view-more-button">
-                            <a href="javascript:;" data-toggle="modal" data-name="three"
-                                data-target="#single-image-modal">View More</a>
-                        </div>
-                        <img class="main-img" src="https://placehold.it/1500x1000" alt="">
-                        <ul class="more-variations-list">
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="single-full-carpet-design">
-                        <div class="view-more-button">
-                            <a href="javascript:;" data-toggle="modal" data-name="four"
-                                data-target="#single-image-modal">View More</a>
-                        </div>
-                        <img class="main-img" src="https://placehold.it/1500x1000" alt="">
-                        <ul class="more-variations-list">
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="single-full-carpet-design">
-                        <div class="view-more-button">
-                            <a href="javascript:;" data-toggle="modal" data-name="five"
-                                data-target="#single-image-modal">View More</a>
-                        </div>
-                        <img class="main-img" src="https://placehold.it/1500x1000" alt="">
-                        <ul class="more-variations-list">
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="single-full-carpet-design">
-                        <div class="view-more-button">
-                            <a href="javascript:;" data-toggle="modal" data-name="six"
-                                data-target="#single-image-modal">View More</a>
-                        </div>
-                        <img class="main-img" src="https://placehold.it/1500x1000" alt="">
-                        <ul class="more-variations-list">
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="single-full-carpet-design">
-                        <div class="view-more-button">
-                            <a href="javascript:;" data-toggle="modal" data-name="seven"
-                                data-target="#single-image-modal">View More</a>
-                        </div>
-                        <img class="main-img" src="https://placehold.it/1500x1000" alt="">
-                        <ul class="more-variations-list">
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="single-full-carpet-design">
-                        <div class="view-more-button">
-                            <a href="javascript:;" data-toggle="modal" data-name="eight"
-                                data-target="#single-image-modal">View More</a>
-                        </div>
-                        <img class="main-img" src="https://placehold.it/1500x1000" alt="">
-                        <ul class="more-variations-list">
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="single-full-carpet-design">
-                        <div class="view-more-button">
-                            <a href="javascript:;" data-toggle="modal" data-name="nine"
-                                data-target="#single-image-modal">View More</a>
-                        </div>
-                        <img class="main-img" src="https://placehold.it/1500x1000" alt="">
-                        <ul class="more-variations-list">
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="single-full-carpet-design">
-                        <div class="view-more-button">
-                            <a href="javascript:;" data-toggle="modal" data-name="ten"
-                                data-target="#single-image-modal">View More</a>
-                        </div>
-                        <img class="main-img" src="https://placehold.it/1500x1000" alt="">
-                        <ul class="more-variations-list">
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                            <li><img src="https://placehold.it/80x80" alt=""></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <div class="modal fade" id="single-image-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog modal-lg" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Carpet Details</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                </div>
-                <div class="modal-body">
-                    <div class="modal-body-content d-none" id="one">
-                        <h4>Additional Variation</h4>
-                        <div class="slider owl-carousel">
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                        </div>
-                        <h4>In Action</h4>
-                        <ul class="more-images-modal-list">
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                        </ul>
-                    </div>
-                    <div class="modal-body-content d-none" id="two">
-                        <h4>Additional Variation Two</h4>
-                        <div class="slider owl-carousel">
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                        </div>
-                        <h4>In Action</h4>
-                        <ul class="more-images-modal-list">
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                        </ul>
-                    </div>
-                    <div class="modal-body-content d-none" id="three">
-                        <h4>Additional Variation Three</h4>
-                        <div class="slider owl-carousel">
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                        </div>
-                        <h4>In Action</h4>
-                        <ul class="more-images-modal-list">
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                        </ul>
-                    </div>
-                    <div class="modal-body-content d-none" id="four">
-                        <h4>Additional Variation Four</h4>
-                        <div class="slider owl-carousel">
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                        </div>
-                        <h4>In Action</h4>
-                        <ul class="more-images-modal-list">
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                        </ul>
-                    </div>
-                    <div class="modal-body-content d-none" id="five">
-                        <h4>Additional Variation Four</h4>
-                        <div class="slider owl-carousel">
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                        </div>
-                        <h4>In Action</h4>
-                        <ul class="more-images-modal-list">
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                        </ul>
-                    </div>
-                    <div class="modal-body-content d-none" id="six">
-                        <h4>Additional Variation Four</h4>
-                        <div class="slider owl-carousel">
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                        </div>
-                        <h4>In Action</h4>
-                        <ul class="more-images-modal-list">
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                        </ul>
-                    </div>
-                    <div class="modal-body-content d-none" id="seven">
-                        <h4>Additional Variation Four</h4>
-                        <div class="slider owl-carousel">
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                        </div>
-                        <h4>In Action</h4>
-                        <ul class="more-images-modal-list">
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                        </ul>
-                    </div>
-                    <div class="modal-body-content d-none" id="eight">
-                        <h4>Additional Variation Four</h4>
-                        <div class="slider owl-carousel">
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                        </div>
-                        <h4>In Action</h4>
-                        <ul class="more-images-modal-list">
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                        </ul>
-                    </div>
-                    <div class="modal-body-content d-none" id="nine">
-                        <h4>Additional Variation Four</h4>
-                        <div class="slider owl-carousel">
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                        </div>
-                        <h4>In Action</h4>
-                        <ul class="more-images-modal-list">
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                        </ul>
-                    </div>
-                    <div class="modal-body-content d-none" id="ten">
-                        <h4>Additional Variation Four</h4>
-                        <div class="slider owl-carousel">
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                            <a href="https://placehold.it/500x300" data-fancybox="image"><img src="http://placehold.it/500x300" alt=""></a>
-                        </div>
-                        <h4>In Action</h4>
-                        <ul class="more-images-modal-list">
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                            <li><a href="https://placehold.it/500x300" data-fancybox="in-action"><img src="http://placehold.it/500x300" alt=""></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="brand-btn" data-dismiss="modal">Close</button>
-                </div>
-            </div>
-        </div>
-    </div>
     <section class="about-us section-padding">
         <div class="container">
             <div class="row">
@@ -424,10 +68,10 @@
                     <p class="mb-5">Once acquired, we explore the most innovatice ways to arrange the bundles and tiles,
                         to create unrepeatable and unique spaces, perfect for hotel atriums, plazas, business hubs,
                         restaurants, homes, and more.</p>
-                    <a href="#" class="brand-btn">Learn More</a>
+                    <a href="https://www.coralgems.us/" target="_blank" class="brand-btn">Learn More</a>
                 </div>
                 <div class="col-lg-6">
-                    <img class="about-image" src="https://placehold.it/500x500" alt="">
+                  <iframe class="w-100 h-100 mx-auto" src="https://www.youtube.com/embed/d24-pM914aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -439,28 +83,35 @@
                     <div class="col-12 text-center">
                         <h2>Get your Enginners or Interior Designers</h2>
                         <p>To Contact us For Deminsions and Cutting</p>
-                        <a href="#" class="brand-btn">Email Us</a>
+                        <a href="mailto:info@coralgems.us" target="_blank" class="brand-btn">Email Us</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <section class="products-list section-padding">
-        <div class="container">
-            <div class="row">
+    <section class="products-list section-padding" id="create-big-project">
+        <div class="container-fluid">
+            <div class="row b2b-slider mx-auto">
                 <div class="col-12">
-                    <h2 class="section-title text-center mb-4"><span class="text-brand">Unique</span> Countertops</h2>
+                    <h2 class="section-title text-center mb-4">Create Your <span class="text-brand">Big</span> Project</h2>
                     <p class="text-center mb-4">Limited Quantity Not For Book Matching But Great For a Rare Graniet
                         Surfaces</p>
-                    <div class="slider owl-carousel">
-                        <img src="http://placehold.it/500x300" alt="">
-                        <img src="http://placehold.it/500x300" alt="">
-                        <img src="http://placehold.it/500x300" alt="">
-                        <img src="http://placehold.it/500x300" alt="">
-                        <img src="http://placehold.it/500x300" alt="">
-                        <img src="http://placehold.it/500x300" alt="">
-                        <img src="http://placehold.it/500x300" alt="">
-                        <img src="http://placehold.it/500x300" alt="">
+                    <div class="slider owl-carousel ">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/1.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/2.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/3.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/4.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/5.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/6.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/7.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/8.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/9.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/10.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/11.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/12.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/13.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/14.jpg" alt="">
+                        <img src="{{url('public/images/b2b/b2b-slider/thumbs/')}}/15.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -513,7 +164,7 @@
             <div class="row mt-4">
                 <div class="col-lg-4">
                     <div class="bundle-icon">
-                        <i class="fas fa-times"></i>
+                        <i class="fas fa-star"></i>
                     </div>
                     <div class="bundle-card">
                         <div class="bundle-data">
@@ -525,7 +176,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="bundle-icon">
-                        <i class="fas fa-times"></i>
+                        <i class="fas fa-check"></i>
                     </div>
                     <div class="bundle-card">
                         <div class="bundle-data">
@@ -537,7 +188,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="bundle-icon">
-                        <i class="fas fa-times"></i>
+                        <i class="fas fa-cog"></i>
                     </div>
                     <div class="bundle-card">
                         <div class="bundle-data">
@@ -550,7 +201,7 @@
             </div>
         </div>
     </section>
-    <section class="images-grid section-padding">
+    <section class="images-grid section-padding" id="full-marble-carpet">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -560,46 +211,144 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-12">
+                <div class="col-lg-6 col-12">
                     <div class="single-item">
-                        <a href="https://placehold.it/500x500" data-fancybox="b2b">
-                            <img src="https://placehold.it/500x500" alt="">
+                        <a href="{{url('public/images/b2b/b2b-grid')}}/1.jpg" data-fancybox="b2b">
+                            <img src="{{url('public/images/b2b/b2b-grid')}}/1.jpg" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-12">
+                <div class="col-lg-6 col-12">
                     <div class="single-item">
-                        <a href="https://placehold.it/500x500" data-fancybox="b2b">
-                            <img src="https://placehold.it/500x500" alt="">
-                        </a>
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/1-rotat.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/1-rotat.jpg" alt="">
+                      </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-12">
+                <div class="col-lg-6 col-12">
                     <div class="single-item">
-                        <a href="https://placehold.it/500x500" data-fancybox="b2b">
-                            <img src="https://placehold.it/500x500" alt="">
-                        </a>
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/2.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/2.jpg" alt="">
+                      </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-12">
+                <div class="col-lg-6 col-12">
                     <div class="single-item">
-                        <a href="https://placehold.it/500x500" data-fancybox="b2b">
-                            <img src="https://placehold.it/500x500" alt="">
-                        </a>
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/2-rotat.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/2-rotat.jpg" alt="">
+                      </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-12">
+                <div class="col-lg-6 col-12">
                     <div class="single-item">
-                        <a href="https://placehold.it/500x500" data-fancybox="b2b">
-                            <img src="https://placehold.it/500x500" alt="">
-                        </a>
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/3.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/3.jpg" alt="">
+                      </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-12">
+                <div class="col-lg-6 col-12">
                     <div class="single-item">
-                        <a href="https://placehold.it/500x500" data-fancybox="b2b">
-                            <img src="https://placehold.it/500x500" alt="">
-                        </a>
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/3-rotat.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/3-rotat.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/4.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/4.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/4-rotat.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/4-rotat.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/5.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/5.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/5-rotat.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/5-rotat.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/6.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/6.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/6-rotat.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/6-rotat.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/7.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/7.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/7-rotat.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/7-rotat.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/8.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/8.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/8-rotat.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/8-rotat.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/9.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/9.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/9-rotat.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/9-rotat.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/10.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/10.jpg" alt="">
+                      </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="single-item">
+                      <a href="{{url('public/images/b2b/b2b-grid')}}/10-rotat.jpg" data-fancybox="b2b">
+                          <img src="{{url('public/images/b2b/b2b-grid')}}/10-rotat.jpg" alt="">
+                      </a>
                     </div>
                 </div>
             </div>
@@ -633,9 +382,7 @@
             </div>
         </div>
     </footer>
-    <iframe class="footer-map"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55257.50394338128!2d31.026819530793812!3d30.048503661368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14585a29f1b324d9%3A0xc5c5525706430b8d!2z2YXYr9mK2YbYqSDYp9mE2LTZitiuINiy2KfZitiv2Iwg2KfZhNis2YrYstip!5e0!3m2!1sar!2seg!4v1611255225415!5m2!1sar!2seg"
-        frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    <iframe class="footer-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55257.50394338128!2d31.026819530793812!3d30.048503661368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14585a29f1b324d9%3A0xc5c5525706430b8d!2z2YXYr9mK2YbYqSDYp9mE2LTZitiuINiy2KfZitiv2Iwg2KfZhNis2YrYstip!5e0!3m2!1sar!2seg!4v1611255225415!5m2!1sar!2seg" frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
