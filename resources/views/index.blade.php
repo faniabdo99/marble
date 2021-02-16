@@ -138,7 +138,20 @@
                         Will be the Final Display of These Options for Ever Only at Your Home</p>
                 </div>
             </div>
+            <div class="row b2b-slider w-100">
+                <div class="col-12">
+                    <div class="owl-carousel one-item-carusel">
+                        <img src="{{url('public/images/renders/')}}/1.jpg" alt="">
+                        <img src="{{url('public/images/renders/')}}/3.jpg" alt="">
+                        <img src="{{url('public/images/renders/')}}/2.jpg" alt="">
+                        <img src="{{url('public/images/renders/')}}/4.jpg" alt="">
+                    </div>
+                </div>
+            </div>
             <div class="row">
+                <div class="col-12">
+                    <p class="text-center mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                </div>
                 <div class="col-lg-6 col-12">
                     <div class="single-item">
                         <a href="{{url('public/images/b2b/b2b-grid')}}/1.jpg" data-fancybox="b2b">
@@ -445,22 +458,6 @@
             </div>
         </div>
     </section>
-    <section class="products-list section-padding" id="b2b">
-        <div class="container">
-            <div class="row b2b-slider mx-auto">
-                <div class="col-12">
-                    <h2 class="section-title text-center mb-4">Very <span class="text-brand">Nice</span> Renders</h2>
-                    <p class="text-center mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                     <div class="owl-carousel slider">
-                        <img src="{{url('public/images/renders/')}}/1.jpg" alt="">
-                        <img src="{{url('public/images/renders/')}}/2.jpg" alt="">
-                        <img src="{{url('public/images/renders/')}}/3.jpg" alt="">
-                        <img src="{{url('public/images/renders/')}}/4.jpg" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
     <div class="modal fade" id="single-image-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
@@ -709,8 +706,21 @@
     <script>
         $(document).ready(function () {
             $(".one-item-carusel").owlCarousel({
-                items: 1,
+                items: 2,
                 loop: true,
+                margin:10,
+                responsive:{
+                    0:{
+                        items:1
+                    },
+                    600:{
+                        items:1
+                    },
+                    1000:{
+                        items:2
+                    }
+                }
+
             });
             $(".slider").owlCarousel({
                 items: 2,

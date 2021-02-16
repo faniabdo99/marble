@@ -215,7 +215,8 @@ footer p {
   background-size: cover;
 }
 
-.images-grid .countertops .single-item a, .images-grid .countertops .single-item img {
+.images-grid .countertops .single-item a,
+.images-grid .countertops .single-item img {
   width: 100%;
   height: 350px;
 }
@@ -223,7 +224,8 @@ footer p {
   width: 99%;
   margin: 15px auto;
 }
-.images-grid .single-item a, .images-grid .single-item img {
+.images-grid .single-item a,
+.images-grid .single-item img {
   width: 100%;
   height: 275px;
 }
@@ -340,8 +342,11 @@ footer p {
 .b2b-slider {
   width: 90%;
 }
-.b2b-slider img {
+.b2b-slider .slider img {
   height: 440px;
+}
+.b2b-slider .one-item-carusel img {
+  height: 400px;
 }
 
 @media screen and (max-width: 768px) {
@@ -413,13 +418,17 @@ footer p {
     margin-bottom: 10px;
   }
 
-  .images-grid .single-item a, .images-grid .single-item img {
+  .images-grid .single-item a,
+.images-grid .single-item img {
     height: auto;
     width: 100%;
   }
 
   .b2b-slider img {
     height: 78px;
+  }
+  .b2b-slider img .one-item-carusel img {
+    height: auto;
   }
 }
 @-webkit-keyframes CursorAnimation {
