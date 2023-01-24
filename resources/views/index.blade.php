@@ -622,7 +622,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <h2>Get your Enginners or Interior Designers</h2>
+                        <h2>Get your Engineers or Interior Designers</h2>
                         <p>To Contact us For Deminsions and Cutting</p>
                         <a href="mailto:info@coralgems.us" target="_blank" class="brand-btn">Email Us</a>
                     </div>
